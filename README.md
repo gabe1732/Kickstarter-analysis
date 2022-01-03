@@ -19,7 +19,7 @@ The most successful projects were started in May with a goal less than $5,000.00
 The greatest challenge was converting the dates to readable dates. Also seperating the Categories and Subcategories.  
 
 ## Results
-The most successful projects were Thearter productions.  Their level of success greatly increased if they were launched in the month of May. 
-Pledge goals less than $5000.00 tend to be the most successful.  While goals greater than $45,000.00 do not tend to succeed often.
-One of the biggest limitation of this dataset it does not include the cost of the individual projects.  If cost was included we can also determine the most profitable projects by unit.  
-Some other tables that could be helpful are tables looking at the length of the particular projects to determine how successful project last vs unsuccessful projects.  
+- The most successful projects were Thearter productions.  Their level of success greatly increased if they were launched in the month of May. 
+- Pledge goals less than $5000.00 tend to be the most successful.  While goals greater than $45,000.00 do not tend to succeed often.
+- One of the biggest limitation of this dataset it does not include the cost of the individual projects.  If cost was included we can also determine the most profitable projects by unit.  
+- Some other tables that could be helpful are tables looking at the length of the particular projects to determine how successful project last vs unsuccessful projects.  
